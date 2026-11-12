@@ -1,3 +1,4 @@
 groq
 tavily-python
 python-dotenv
+streamlit
