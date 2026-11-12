@@ -31,8 +31,7 @@ pip install -r requirements.txt
 Create a `.env` file:
 
 ```
-GROQ_API_KEY=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
-TAVILY_API_KEY=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
+
 ```
 
 Both have free tiers (console.groq.com, tavily.com).
