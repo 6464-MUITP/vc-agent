@@ -1,0 +1,441 @@
+{
+  "Perplexity AI\npython main.py Perplexity": {
+    "profile": {
+      "what_it_does": {
+        "value": "AI answer engine that researches the open web in real time and returns concise, cited answers.",
+        "source_url": "https://www.perplexity.ai/hub",
+        "evidence": "Perplexity is an AI answer engine that researches the open web in real time and returns concise, cited answers.",
+        "confidence": "high",
+        "verified": true,
+        "tier": "primary",
+        "trusted": true
+      },
+      "target_customer": {
+        "value": "Power users with heavy daily research workloads.",
+        "source_url": "https://www.perplexity.ai/hub",
+        "evidence": "Max extends those limits further and is intended for power users with heavy daily research workloads.",
+        "confidence": "high",
+        "verified": true,
+        "tier": "primary",
+        "trusted": true
+      },
+      "pricing_model": {
+        "value": "Free core search; Pro $20/month or $200/year; Enterprise pricing on request.",
+        "source_url": "https://www.perplexity.ai/hub",
+        "evidence": "Perplexity Pro is $20/month or $200/year and unlocks Pro Search, Projects, file uploads, image generation, and higher limits.",
+        "confidence": "high",
+        "verified": true,
+        "tier": "primary",
+        "trusted": true
+      },
+      "key_features": {
+        "value": "Unlimited Pro Search, Projects, file analysis, image generation, and advanced models via Pro.",
+        "source_url": "https://www.perplexity.ai/hub",
+        "evidence": "Pro adds unlimited Pro Search, Projects, file analysis, image generation, and access to advanced models.",
+        "confidence": "high",
+        "verified": true,
+        "tier": "primary",
+        "trusted": true
+      },
+      "claimed_differentiator": {
+        "value": "Real-time web research with concise, cited answers.",
+        "source_url": "https://www.perplexity.ai/hub",
+        "evidence": "Perplexity is an AI answer engine that researches the open web in real time and returns concise, cited answers.",
+        "confidence": "high",
+        "verified": true,
+        "tier": "primary",
+        "trusted": true
+      },
+      "notable_customers": {
+        "value": null,
+        "source_url": null,
+        "evidence": null,
+        "confidence": "low"
+      },
+      "recent_news": {
+        "value": null,
+        "source_url": null,
+        "evidence": null,
+        "confidence": "low"
+      }
+    },
+    "scorecard": {
+      "clear_customer": {
+        "score": 5,
+        "reason": "Targets power users with heavy daily research workloads, a well\u2011defined segment."
+      },
+      "pricing_clarity": {
+        "score": 5,
+        "reason": "Transparent tiered pricing, clear free and Pro plans; enterprise on request."
+      },
+      "specific_differentiation": {
+        "score": 5,
+        "reason": "Differentiates via real\u2011time web research delivering concise, cited answers."
+      },
+      "proof": {
+        "score": null,
+        "reason": "not enough information"
+      },
+      "momentum": {
+        "score": null,
+        "reason": "not enough information"
+      }
+    }
+  },
+  "Exa": {
+    "profile": {
+      "what_it_does": {
+        "value": "Provides web search and research infrastructure for AI applications, enabling source finding, content retrieval, and grounded outputs.",
+        "source_url": "https://exa.ai/docs/admin/faqs",
+        "evidence": "Exa provides web search and research infrastructure for AI applications. It combines an independent search index with content extraction and agentic research APIs, so applications can find sources, retrieve their contents, and produce grounded outputs.",
+        "confidence": "high",
+        "verified": true,
+        "tier": "primary",
+        "trusted": true
+      },
+      "target_customer": {
+        "value": "Organizations seeking enterprise\u2011level search with volume pricing and unified billing.",
+        "source_url": "https://exa.ai/enterprise",
+        "evidence": "Exa charges per request: Exa Search starts at $4 per 1,000 requests. Enterprise contracts add volume and committed-use pricing, monthly invoicing, and unified billing across an organization.",
+        "confidence": "high",
+        "verified": true,
+        "tier": "primary",
+        "trusted": true
+      },
+      "pricing_model": {
+        "value": "Pay\u2011per\u2011request starting at $4 per 1,000 requests, with add\u2011ons for extra results.",
+        "source_url": "https://exa.ai/enterprise",
+        "evidence": "Exa Search starts at $4 per 1,000 requests.",
+        "confidence": "high",
+        "verified": true,
+        "tier": "primary",
+        "trusted": true
+      },
+      "key_features": {
+        "value": "Up to 1,000 results per search, custom rate limits, tailored moderation, and custom indexes.",
+        "source_url": "https://exa.ai/docs/admin/faqs",
+        "evidence": "Up to 1,000 results per search, requests above 25 results, custom rate limits (QPS), tailored moderation, and custom indexes.",
+        "confidence": "low",
+        "verified": false,
+        "tier": "primary",
+        "trusted": false
+      },
+      "claimed_differentiator": {
+        "value": "Highest\u2011quality search API at every latency.",
+        "source_url": "https://exa.ai/about",
+        "evidence": "Today, Exa is the highest quality search API at every latency.",
+        "confidence": "high",
+        "verified": true,
+        "tier": "primary",
+        "trusted": true
+      },
+      "notable_customers": {
+        "value": "Cursor, Cognition, HubSpot, OpenRouter, Monday.com and over 400,000 developers.",
+        "source_url": "https://exa.ai/about",
+        "evidence": "We power search for Cursor, Cognition, HubSpot, OpenRouter, Monday.com and over 400,000 developers.",
+        "confidence": "high",
+        "verified": true,
+        "tier": "primary",
+        "trusted": true
+      },
+      "recent_news": {
+        "value": "Partnered with Coinbase to enable agents to pay for web search via x402 (2026\u201104\u201107).",
+        "source_url": "https://www.linkedin.com/company/exa-ai",
+        "evidence": "2026-04-07: We're excited to partner with Coinbase to enable agents to natively pay for web search, via x402! x402 is an open protocol that enables agents to pay via HTTP, governed by the Linux Foundation.",
+        "confidence": "high",
+        "verified": true,
+        "tier": "primary",
+        "trusted": true
+      }
+    },
+    "scorecard": {
+      "clear_customer": {
+        "score": 5,
+        "reason": "Targets enterprises needing search with volume pricing; clearly defined."
+      },
+      "pricing_clarity": {
+        "score": 5,
+        "reason": "Transparent pay-per-request pricing, $4 per 1k, with add\u2011ons; scalable."
+      },
+      "specific_differentiation": {
+        "score": 3,
+        "reason": "Claims highest\u2011quality search API at any latency\u2014no concrete metrics provided."
+      },
+      "proof": {
+        "score": 5,
+        "reason": "Lists named customers like HubSpot, Monday.com and 400k developers as evidence."
+      },
+      "momentum": {
+        "score": 5,
+        "reason": "Recent Coinbase partnership (2026) shows active growth and collaborations."
+      }
+    }
+  },
+  "You.com": {
+    "profile": {
+      "what_it_does": {
+        "value": "Provides web search APIs for AI, delivering real-time, accurate, citation\u2011backed answers via proprietary vertical\u2011specific indices.",
+        "source_url": "https://you.com/linkedin",
+        "evidence": "You.com provides the leading Web Search APIs for AI. We deliver real-time, accurate, and citation-backed answers\u2014enabled by our proprietary vertical-specific web indices, which integrate public and domain-specific data for the deepest, most relevant search experience available.",
+        "confidence": "low",
+        "verified": false,
+        "tier": "primary",
+        "trusted": false
+      },
+      "target_customer": {
+        "value": "Enterprises, especially regulated sectors needing secure AI search.",
+        "source_url": "https://you.com/resources/best-ai-for-enterprise-you-vs-openai",
+        "evidence": "You.com Enterprise takes a harder line. It applies zero data retention by default\u2026 This makes it attractive to organizations in highly regulated sectors like finance, healthcare, or government, where data residency and retention rules are non\u2011negotiable.",
+        "confidence": "low",
+        "verified": false,
+        "tier": "primary",
+        "trusted": false
+      },
+      "pricing_model": {
+        "value": "Pay\u2011as\u2011you\u2011go API pricing: $5 per 1,000 web search calls, $1 per 1,000 pages for content extraction.",
+        "source_url": "https://you.com/resources/lower-search-api-cost",
+        "evidence": "That\u2019s why You.com is excited to announce that we\u2019re lowering the cost of our Web Search API to just $5 per 1,000 calls and our Contents API to $1 per 1000 pages\u2026",
+        "confidence": "low",
+        "verified": false,
+        "tier": "primary",
+        "trusted": false
+      },
+      "key_features": {
+        "value": "Live web and news results with highlights, up to 100 results per call, and full\u2011page content extraction in Markdown or HTML.",
+        "source_url": "https://you.com/product/web-search-api",
+        "evidence": "Live web and news results with query-relevant highlights, ready for your model\u2026 Up to 100 results per call\u2026 Full-page content extraction costs $1 per 1,000 pages\u2026 Clean Markdown or HTML of the full page when your agent needs deeper context.",
+        "confidence": "low",
+        "verified": false,
+        "tier": "primary",
+        "trusted": false
+      },
+      "claimed_differentiator": {
+        "value": "No LLM lock\u2011in; works with any LLM via a plain REST API.",
+        "source_url": "https://you.com/resources/same-llm-better-web-search-better-outcome",
+        "evidence": "No LLM lock\u2011in. You.com is a plain REST API that works with any LLM. Switch providers without rebuilding the search integration.",
+        "confidence": "low",
+        "verified": false,
+        "tier": "primary",
+        "trusted": false
+      },
+      "notable_customers": {
+        "value": "Scira uses the You.com Web Search API as its default search provider.",
+        "source_url": "https://you.com/resources",
+        "evidence": "Scira Now Uses the You.com Web Search API as Its Default Search Provider",
+        "confidence": "high",
+        "verified": true,
+        "tier": "primary",
+        "trusted": true
+      },
+      "recent_news": {
+        "value": "Introduced You.com Inference Router, enterprise\u2011grade inference on demand (Oct\u202f22\u202f2026).",
+        "source_url": "https://you.com/resources",
+        "evidence": "Introducing You.com Inference Router: Enterprise\u2011grade inference on demand, with an uptime SLA of at least 99.9% and ZDR.",
+        "confidence": "low",
+        "verified": false,
+        "tier": "primary",
+        "trusted": false
+      }
+    },
+    "scorecard": {
+      "clear_customer": {
+        "score": 5,
+        "reason": "Enterprises, especially regulated sectors"
+      },
+      "pricing_clarity": {
+        "score": 5,
+        "reason": "Pay-as-you-go, clear per\u2011call rates"
+      },
+      "specific_differentiation": {
+        "score": 5,
+        "reason": "No LLM lock\u2011in, works with any LLM"
+      },
+      "proof": {
+        "score": 4,
+        "reason": "Named customer Scira uses API"
+      },
+      "momentum": {
+        "score": 4,
+        "reason": "Recent Inference Router launch Oct\u00a022\u201126"
+      }
+    }
+  },
+  "Kagi": {
+    "profile": {
+      "what_it_does": {
+        "value": "Privacy\u2011focused, fast search engine with personalized, ad\u2011free results.",
+        "source_url": "https://www.kagi.com/faq",
+        "evidence": "Kagi Search is a highly accurate, lightning-fast, user-centric, 100% privacy-respecting search engine with results augmented by non-commercial indexes and personalized searches.",
+        "confidence": "high",
+        "verified": true,
+        "tier": "primary",
+        "trusted": true
+      },
+      "target_customer": {
+        "value": "Internet professionals and developers needing unlimited search.",
+        "source_url": "https://help.kagi.com/kagi/plans/plan-types.html",
+        "evidence": "This plan is suited for internet professionals and developers who are prolific and advanced search users.",
+        "confidence": "high",
+        "verified": true,
+        "tier": "primary",
+        "trusted": true
+      },
+      "pricing_model": {
+        "value": "Subscription tiers with included searches plus pay\u2011per\u2011use at $0.015 per search.",
+        "source_url": "https://blog.kagi.com/update-kagi-search-pricing",
+        "evidence": "New plans also have pay-per-use searches on demand, which are priced at 1.5 cents per search.",
+        "confidence": "high",
+        "verified": true,
+        "tier": "primary",
+        "trusted": true
+      },
+      "key_features": {
+        "value": "Zero telemetry, zero tracking, ad\u2011free search with keyboard shortcuts and result filters.",
+        "source_url": "https://blog.kagi.com/kagi-features",
+        "evidence": "Sort results by number of ads/trackers on them.",
+        "confidence": "medium",
+        "verified": true,
+        "tier": "primary",
+        "trusted": true
+      },
+      "claimed_differentiator": {
+        "value": "Subscription\u2011only model with no ads or data collection for privacy.",
+        "source_url": "https://www.kagi.com/faq",
+        "evidence": "Our business model is selling subscriptions (and not selling ads or your data).",
+        "confidence": "low",
+        "verified": false,
+        "tier": "primary",
+        "trusted": false
+      },
+      "notable_customers": {
+        "value": "Featured by investigative journalist MJ Banias as a top OSINT tool.",
+        "source_url": "https://blog.kagi.com/tips",
+        "evidence": "In a recent video featuring MJ Banias, an investigative journalist intelligence analyst and anti-human trafficking researcher, Kagi was highlighted as one of the top OSINT tools for 2026.",
+        "confidence": "medium",
+        "verified": true,
+        "tier": "primary",
+        "trusted": true
+      },
+      "recent_news": {
+        "value": "Launched native Kagi Assistant apps for iOS and Android (July\u202f30\u202f2026).",
+        "source_url": "https://kagi.com/changelog",
+        "evidence": "Kagi Assistant is now available as a native app for iOS and Android!",
+        "confidence": "high",
+        "verified": true,
+        "tier": "primary",
+        "trusted": true
+      }
+    },
+    "scorecard": {
+      "clear_customer": {
+        "score": 4,
+        "reason": "Targeted at internet professionals and developers."
+      },
+      "pricing_clarity": {
+        "score": 5,
+        "reason": "Transparent tiers and per\u2011search pricing, clearly scalable."
+      },
+      "specific_differentiation": {
+        "score": 5,
+        "reason": "No\u2011ads, no\u2011data subscription model distinct from ad\u2011supported search."
+      },
+      "proof": {
+        "score": null,
+        "reason": "not enough information"
+      },
+      "momentum": {
+        "score": 4,
+        "reason": "Recent iOS/Android Assistant app launch."
+      }
+    }
+  },
+  "Tavily": {
+    "profile": {
+      "what_it_does": {
+        "value": "Provides high-quality snippets that are optimized for model consumption.",
+        "source_url": "https://www.nimbleway.com/blog/tavily-alternatives",
+        "evidence": "Provides high-quality snippets that are optimized for model consumption.",
+        "confidence": "low",
+        "verified": true,
+        "tier": "other",
+        "trusted": false
+      },
+      "target_customer": {
+        "value": "Serves Fortune 500 enterprises and top AI companies.",
+        "source_url": "https://nebius.com/newsroom/nebius-announces-agreement-to-acquire-tavily-to-add-agentic-search-to-its-ai-cloud-platform",
+        "evidence": "Nebius (NASDAQ: NBIS), the AI cloud company, today announced an agreement to acquire Tavily, a leading agentic search provider serving Fortune 500 enterprises and top AI companies.",
+        "confidence": "low",
+        "verified": true,
+        "tier": "other",
+        "trusted": false
+      },
+      "pricing_model": {
+        "value": "Free monthly credits support a small proof of concept.",
+        "source_url": "https://www.therundown.ai/tools/tavily",
+        "evidence": "Free monthly credits support a small proof of concept.",
+        "confidence": "low",
+        "verified": true,
+        "tier": "other",
+        "trusted": false
+      },
+      "key_features": {
+        "value": "Offers AI-optimized search plus extraction, crawl, map, and research endpoints.",
+        "source_url": "https://www.firecrawl.dev/blog/tavily-alternatives",
+        "evidence": "Tavily offers AI-optimized search plus extraction, crawl, map, and research endpoints.",
+        "confidence": "low",
+        "verified": true,
+        "tier": "other",
+        "trusted": false
+      },
+      "claimed_differentiator": {
+        "value": "Designed with AI workflows in mind, unlike traditional search engines.",
+        "source_url": "https://www.instagram.com/p/DeYOys6md10",
+        "evidence": "Unlike traditional search engines, Tavily is designed with AI workflows in mind.",
+        "confidence": "low",
+        "verified": true,
+        "tier": "other",
+        "trusted": false
+      },
+      "notable_customers": {
+        "value": "Serves Fortune 500 enterprises and top AI companies.",
+        "source_url": "https://nebius.com/newsroom/nebius-announces-agreement-to-acquire-tavily-to-add-agentic-search-to-its-ai-cloud-platform",
+        "evidence": "Nebius (NASDAQ: NBIS), the AI cloud company, today announced an agreement to acquire Tavily, a leading agentic search provider serving Fortune 500 enterprises and top AI companies.",
+        "confidence": "low",
+        "verified": true,
+        "tier": "other",
+        "trusted": false
+      },
+      "recent_news": {
+        "value": "Nebius announced an agreement to acquire Tavily, adding its real-time search to Nebius\u2019s AI cloud platform.",
+        "source_url": "https://nebius.com/newsroom/nebius-announces-agreement-to-acquire-tavily-to-add-agentic-search-to-its-ai-cloud-platform",
+        "evidence": "Nebius (NASDAQ: NBIS), the AI cloud company, today announced an agreement to acquire Tavily, a leading agentic search provider serving Fortune 500 enterprises and top AI companies.",
+        "confidence": "low",
+        "verified": true,
+        "tier": "other",
+        "trusted": false
+      }
+    },
+    "scorecard": {
+      "clear_customer": {
+        "score": 4,
+        "reason": "Targets Fortune 500 enterprises and top AI firms, not general audience."
+      },
+      "pricing_clarity": {
+        "score": 2,
+        "reason": "Only free credits described; no tiered or usage-based pricing details."
+      },
+      "specific_differentiation": {
+        "score": 3,
+        "reason": "Highlights AI workflow design versus traditional search, somewhat specific."
+      },
+      "proof": {
+        "score": null,
+        "reason": "not enough information"
+      },
+      "momentum": {
+        "score": 4,
+        "reason": "Acquisition by Nebius adds real-time search to AI cloud platform."
+      }
+    }
+  }
+}

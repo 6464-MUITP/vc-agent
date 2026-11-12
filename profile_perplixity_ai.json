@@ -1,0 +1,52 @@
+{
+  "total_funding": {
+    "value": "$971.9\u202fM",
+    "source_url": "https://www.zoominfo.com/financial/perplexity-ai/566145610",
+    "confidence": "high"
+  },
+  "last_round": {
+    "value": "Series\u202fE\u20116 (Jan\u202f2026) \u2013 $500\u202fM",
+    "source_url": "https://finance.yahoo.com/news/perplexity-ai-nears-500m-funding-082753497.html",
+    "confidence": "high"
+  },
+  "lead_investors": {
+    "value": "Jeff Bezos, Tobias L\u00fctke, Nat Friedman, Nvidia, Databricks, 1789\u202fCapital",
+    "source_url": "https://finance.yahoo.com/news/perplexity-ai-nears-500m-funding-082753497.html",
+    "confidence": "high"
+  },
+  "valuation": {
+    "value": "\u2248\u202f$21\u202fB post\u2011money (Jan\u202f2026)",
+    "source_url": "https://finance.yahoo.com/news/perplexity-ai-nears-500m-funding-082753497.html",
+    "confidence": "high"
+  },
+  "headcount": {
+    "value": "~\u202f960 employees (2026)",
+    "source_url": "https://www.reveliolabs.com/companies/perplexity-ai/employees",
+    "confidence": "high"
+  },
+  "estimated_arr": {
+    "value": "$450\u202fM (Q1\u202f2026)",
+    "source_url": "https://finance.yahoo.com/sectors/technology/articles/perplexity-arr-tops-450m-pricing-132500539.html",
+    "confidence": "medium"
+  },
+  "pricing": {
+    "value": "Free tier; Pro $20\u202f/\u202fmo (or $200\u202f/\u202fyr); Max $200\u202f/\u202fmo; Enterprise (custom pricing); Developer APIs (pay\u2011as\u2011you\u2011go usage)",
+    "source_url": "https://www.finout.io/blog/perplexity-pricing-in-2026",
+    "confidence": "high"
+  },
+  "target_customer": {
+    "value": "Individual power users (Free/Pro), researchers & heavy users (Max), mid\u2011size to large enterprises (Enterprise), developers building on the API",
+    "source_url": "https://www.finout.io/blog/perplexity-pricing-in-2026",
+    "confidence": "medium"
+  },
+  "key_differentiator": {
+    "value": "Citation\u2011rich, web\u2011augmented answers combined with the \u201cComputer\u201d autonomous agent for multi\u2011step tasks",
+    "source_url": "https://www.finout.io/blog/perplexity-pricing-in-2026",
+    "confidence": "high"
+  },
+  "main_competitors": {
+    "value": "You.com, OpenAI (ChatGPT), Anthropic (Claude), Google Gemini, DeepSeek, Liner, Consensus",
+    "source_url": "https://www.cbinsights.com/company/perplexity-ai/alternatives-competitors",
+    "confidence": "high"
+  }
+}

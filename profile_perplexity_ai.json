@@ -1,0 +1,71 @@
+{
+  "total_funding": {
+    "value": "1.75B USD",
+    "source_url": "https://tavily.com/knowledge/company/oxRY7cjJjzB2",
+    "evidence": "Total raised: 1.75B USD",
+    "confidence": "low",
+    "verified": false
+  },
+  "last_round": {
+    "value": "Secondary Market 2026-05-01 15.00M USD",
+    "source_url": "https://tavily.com/knowledge/company/oxRY7cjJjzB2",
+    "evidence": "Last round: Secondary Market 2026-05-01 15.00M USD",
+    "confidence": "low",
+    "verified": false
+  },
+  "lead_investors": {
+    "value": "Accel, IVP, NVIDIA, SoftBank Vision Fund 2, NEA, Bessemer Venture Partners, Databricks, Jeff Bezos, Shopify CEO Tobias L\u00fctke, Figma CEO Dylan",
+    "source_url": "https://tsginvest.com/perplexity-ai",
+    "evidence": "Notable investors across rounds include Accel, IVP, NVIDIA, SoftBank Vision Fund 2, NEA, Bessemer Venture Partners, Databricks, Jeff Bezos, Shopify CEO Tobias L\u00fctke, Figma CEO Dylan",
+    "confidence": "medium",
+    "verified": true
+  },
+  "valuation": {
+    "value": "$18 billion",
+    "source_url": "https://www.linkedin.com/posts/analytics-india-magazine_ai-startup-perplexity-has-secured-an-additional-activity-7351880819386351616-TxP0",
+    "evidence": "AI startup Perplexity has secured an additional $100 million in funding, pushing its valuation to $18 billion",
+    "confidence": "high",
+    "verified": true
+  },
+  "headcount": {
+    "value": "959",
+    "source_url": "https://www.reveliolabs.com/companies/perplexity-ai/employees",
+    "evidence": "Perplexity AI had 959 employees in 2026",
+    "confidence": "high",
+    "verified": true
+  },
+  "estimated_arr": {
+    "value": "$750 million",
+    "source_url": "https://sacra.com/c/perplexity",
+    "evidence": "annualised revenue tops $750 million",
+    "confidence": "low",
+    "verified": false
+  },
+  "pricing": {
+    "value": "$20 per month or $200 per year (Pro tier)",
+    "source_url": "https://www.perplexity.ai/hub",
+    "evidence": "Perplexity Pro is $20 per month or $200 per year",
+    "confidence": "low",
+    "verified": false
+  },
+  "target_customer": {
+    "value": null,
+    "source_url": null,
+    "evidence": null,
+    "confidence": "low"
+  },
+  "key_differentiator": {
+    "value": "AI-powered search engine that provides conversational answers to user queries, competing with Google",
+    "source_url": "https://techcrunch.com/2025/09/10/perplexity-reportedly-raised-200m-at-20b-valuation",
+    "evidence": "Perplexity, the AI-powered search startup that competes with Google by providing conversational answers to user queries",
+    "confidence": "high",
+    "verified": true
+  },
+  "main_competitors": {
+    "value": "ChatGPT, Claude, Gemini, Grok, Consensus, Saner.AI",
+    "source_url": "https://www.vellum.ai/blog/best-perplexity-computer-alternatives",
+    "evidence": "The Best Perplexity Alternatives are: ChatGPT, Claude, Gemini, Grok, Consensus, and Saner.AI",
+    "confidence": "low",
+    "verified": false
+  }
+}
